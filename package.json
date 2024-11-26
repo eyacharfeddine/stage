@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@react-navigation/native": "^6.1.18",
+    "expo": "^51.0.31",
+    "react": "18.2.0",
+    "react-native": "0.74.5"
+  },
+  "name": "StageApp",
+  "version": "1.0.0",
+  "scripts": {
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  }
+}
